@@ -18,6 +18,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Project data
+data/
+
 # IDE and tool caches
 .gemini/
 .geminiignore
