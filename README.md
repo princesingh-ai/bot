@@ -104,7 +104,7 @@ The application uses a decoupled, resilient multi-service architecture:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/princesingh-ai/bot.git
 cd bot
 ```
 
