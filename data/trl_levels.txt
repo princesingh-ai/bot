@@ -1,0 +1,18 @@
+Technology Readiness Level:
+TRL 1 - Basic Idea: At this level, the technology has been identified but no research or development (R&D) has been conducted. The idea is still in its infancy and requires further investigation to determine its viability.
+
+TRL 2 - Concept Developed: R&D has begun, and a basic understanding of the technology's potential has been established. However, there is still significant uncertainty, and the concept has not yet been proven.
+
+TRL 3 - Experimental Proof of Concept: The technology has been tested in a laboratory setting to validate its feasibility. While promising results have been achieved, the technology remains unproven in real-world applications.
+
+TRL 4 - Laboratory Scale Validation (Early Prototype): A more developed version of the technology has been created and tested in a controlled environment. While still not ready for commercialization, this level represents significant progress towards readiness.
+
+TRL 5 - Lab Scale Demonstration (Late Preclinical Research): The technology has been demonstrated in a laboratory setting using a prototype with some component or system validation. While still in the preclinical phase, this level represents a significant step towards commercialization.
+
+TRL 6 - Prototype Demonstration: A more mature version of the technology has been created and tested in a controlled environment, demonstrating its effectiveness in a real-world setting. The prototype has been validated through rigorous testing, but further refinement is still required before commercialization.
+
+TRL 7 - Translation/Development: The technology has been successfully translated into a usable form for commercialization. The focus now shifts to developing the technology further to meet market needs and ensure it is ready for deployment.
+
+TRL 8 - Capability Validation (Pilot-Scale): The technology has been demonstrated in a pilot-scale setting, providing further validation of its effectiveness and readiness for commercialization. This level represents significant progress towards full-scale deployment.
+
+TRL 9 - Commercialization: The technology is now ready for full-scale deployment after successful operation in a real-world environment. The product has been proven through extensive testing, and the technology has reached its highest level of maturity.
