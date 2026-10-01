@@ -1,4 +1,37 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-.gemini
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables and secrets — NEVER commit .env
+.env
+.env.*
+!.env.example
+
+# Operating System files
 .DS_Store
-data/
+Thumbs.db
+
+# IDE and tool caches
+.gemini/
+.geminiignore
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Runtime artifacts
+*.log
+*.pid
