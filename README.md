@@ -448,9 +448,9 @@ Dataset paths are configured in `config.yaml`. The loaders in `server/core/loade
 
 ---
 
-## Handover Checklist
+## Checklist
 
-Use this checklist when onboarding a new developer or deploying to a new environment:
+Use this checklist when deploying to a new environment:
 
 - [ ] Clone the repository and verify all files in `data/` are present
 - [ ] Install Python 3.12+ and [uv](https://docs.astral.sh/uv/)
